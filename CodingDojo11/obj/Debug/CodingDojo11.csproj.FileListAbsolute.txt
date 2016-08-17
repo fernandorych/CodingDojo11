@@ -1,0 +1,6 @@
+C:\Projetos\CodingDojo\CodingDojo11\CodingDojo11\bin\CodingDojo11.dll.config
+C:\Projetos\CodingDojo\CodingDojo11\CodingDojo11\bin\CodingDojo11.dll
+C:\Projetos\CodingDojo\CodingDojo11\CodingDojo11\bin\CodingDojo11.pdb
+C:\Projetos\CodingDojo\CodingDojo11\CodingDojo11\obj\Debug\CodingDojo11.csprojResolveAssemblyReference.cache
+C:\Projetos\CodingDojo\CodingDojo11\CodingDojo11\obj\Debug\CodingDojo11.dll
+C:\Projetos\CodingDojo\CodingDojo11\CodingDojo11\obj\Debug\CodingDojo11.pdb
